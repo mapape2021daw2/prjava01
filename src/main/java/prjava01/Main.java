@@ -1,13 +1,18 @@
-/* * To change this template, choose Tools | Templates 
+/* 
+* To change this template, choose Tools | Templates 
 * and open the template in the editor. 
 */
 package prjava01;
+
 /** 
  * 
  * @author xxyyzz2021daw2 (a on xxyyzz és el teu nom d'usuari Github) 
  */
+
 import java.io.*;
+
 public class Main {
+    
     /**     
      * @param args the command line arguments     
      */    
@@ -19,6 +24,7 @@ public class Main {
             bw.write("    <title>");bw.newLine();            
             bw.write("      Nova p&agrave;gina  web");
             bw.newLine();            bw.write("    </title>");
+            bw.write("    <h1>DAW2 m08uf4pr2</h1>");bw.newLine();
             bw.newLine();            bw.write("  </head>");
             bw.newLine();            bw.write("  <body>");
             bw.newLine();            bw.write("    Nova p&agrave;gina web");
